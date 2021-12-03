@@ -10,8 +10,8 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import static ru.gb.lesson.homeWork4.TriangleSquare.SquareTriangle;
 
 
-public class HomeWork4Test {
-    private static Logger logger = LoggerFactory.getLogger(HomeWork4Test.class);
+public class TriangleTest {
+    private static Logger logger = LoggerFactory.getLogger(TriangleTest.class);
 
     // Треугольник с тремя положительными сторонами
     @Test
